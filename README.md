@@ -32,3 +32,4 @@
 - [Secrets manager lambda rotation templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Macie data identifiers](https://docs.aws.amazon.com/macie/latest/user/mdis-reference-quick.html)
 - [Certificate manager now supports ACME protocol](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)
+- [Automated renewal of private certificates](https://docs.aws.amazon.com/acm/latest/userguide/renew-private-cert.html)
