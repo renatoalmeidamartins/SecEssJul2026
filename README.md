@@ -6,3 +6,4 @@
 - [Webex meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=md6046096a01fabedb88f877e3ba3ca2b)
 ## Learning links
 - [AWS Well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- [Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/framework/security.html)
