@@ -17,3 +17,4 @@
 - [AWS Config sample rules](https://github.com/aws-samples/aws-config-custom-policy-rule-samples)
 - Remediation in AWS Config is done through Systems Manager Automation documents. These documents have a [list of actions available](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html), and there are hundreds of docuemnts pre-created. They can also be shell scripts (powershell, bash). A good list of the automation runbooks is [here](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
 - [Signing requests to call AWS services](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv-create-signed-request.html). **If using an SDK or the CLI, this will be done by the tool**
+- [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
