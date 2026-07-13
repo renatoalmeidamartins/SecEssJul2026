@@ -39,3 +39,5 @@
 - [Resiliency features in Route53 - shuffle sharding, anycast striping](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/using-route53-for-dns-availability.html)
 - [Firewall manager allows you to centrally deploy a lot of security artifacts - WAF, Shield Advanced, NACL, Security Groups, ...](https://docs.aws.amazon.com/waf/latest/developerguide/fms-chapter.html)
 - [Supported targets for Inspector scanning](https://docs.aws.amazon.com/inspector/latest/user/activate-scans.html)
+- [Triggering automated responses from inspector findings](https://docs.aws.amazon.com/inspector/latest/user/findings-managing-automating-responses.html)
+- [Part 1 of "Automate vulnerability management and remediation in AWS using Amazon Inspector and AWS Systems Manager"](https://aws.amazon.com/blogs/mt/automate-vulnerability-management-and-remediation-in-aws-using-amazon-inspector-and-aws-systems-manager-part-1)
