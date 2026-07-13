@@ -30,3 +30,4 @@
 - [KMS Bucket key reduces costs significantly](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
 - [S3 security best practices](https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html)
 - [Secrets manager lambda rotation templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- [Macie data identifiers](https://docs.aws.amazon.com/macie/latest/user/mdis-reference-quick.html)
