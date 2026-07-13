@@ -24,3 +24,5 @@
 - [IAM Identity center - used for single sign-on](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html)
 - [AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html)
 - [Using Cognito, made for web application authentication/authorization](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html), components are "user pool" (authentication) and "identity pool" (authorization)
+- [Integrating Secrets manager with EKS secrets](https://docs.aws.amazon.com/eks/latest/userguide/manage-secrets.html)
+- [EKS Pod identity](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
