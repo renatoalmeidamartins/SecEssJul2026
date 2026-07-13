@@ -13,3 +13,6 @@
 - [AWS Incident Manager is no longer available](https://docs.aws.amazon.com/incident-manager/latest/userguide/incident-manager-availability-change.html)
 - [Compliance by service and industry in AWS](https://aws.amazon.com/compliance/services-in-scope/)
 - [AWS Artifact, good place for obtaining certificates, reports and agreements about audits done to AWS](https://aws.amazon.com/artifact/)
+- [AWS Config sampple conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [AWS Config sample rules](https://github.com/aws-samples/aws-config-custom-policy-rule-samples)
+- Remediation in AWS Config is done through Systems Manager Automation documents. These documents have a [list of actions available](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html), and there are hundreds of docuemnts pre-created. They can also be shell scripts (powershell, bash). A good list of the automation runbooks is [here](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
