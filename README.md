@@ -18,3 +18,5 @@
 - Remediation in AWS Config is done through Systems Manager Automation documents. These documents have a [list of actions available](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html), and there are hundreds of docuemnts pre-created. They can also be shell scripts (powershell, bash). A good list of the automation runbooks is [here](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
 - [Signing requests to call AWS services](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv-create-signed-request.html). **If using an SDK or the CLI, this will be done by the tool**
 - [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [Best practices in a multi-account environment](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html)
+- [Tasks that require root user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
