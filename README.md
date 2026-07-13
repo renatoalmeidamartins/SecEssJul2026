@@ -20,3 +20,4 @@
 - [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 - [Best practices in a multi-account environment](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html)
 - [Tasks that require root user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
+- [List of compatible MFA devices](https://aws.amazon.com/iam/features/mfa/?audit=2019q1)
