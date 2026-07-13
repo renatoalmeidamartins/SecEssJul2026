@@ -31,3 +31,4 @@
 - [S3 security best practices](https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html)
 - [Secrets manager lambda rotation templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Macie data identifiers](https://docs.aws.amazon.com/macie/latest/user/mdis-reference-quick.html)
+- [Certificate manager now supports ACME protocol](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)
