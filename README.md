@@ -23,3 +23,4 @@
 - [List of compatible MFA devices](https://aws.amazon.com/iam/features/mfa/?audit=2019q1)
 - [IAM Identity center - used for single sign-on](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html)
 - [AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html)
+- [Using Cognito, made for web application authentication/authorization](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
