@@ -34,3 +34,5 @@
 - [Certificate manager now supports ACME protocol](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)
 - [Automated renewal of private certificates](https://docs.aws.amazon.com/acm/latest/userguide/renew-private-cert.html)
 - [Gateway Load Balancer Announcement](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Zero trust architecture](https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf)
+- [Introduction of protection packages for WAF](https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/)
