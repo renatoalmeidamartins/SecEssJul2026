@@ -42,3 +42,4 @@
 - [Triggering automated responses from inspector findings](https://docs.aws.amazon.com/inspector/latest/user/findings-managing-automating-responses.html)
 - [Part 1 of "Automate vulnerability management and remediation in AWS using Amazon Inspector and AWS Systems Manager"](https://aws.amazon.com/blogs/mt/automate-vulnerability-management-and-remediation-in-aws-using-amazon-inspector-and-aws-systems-manager-part-1)
 - [EC2 image builder - based on Hashicorp Packer](https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
+- [Security Hub comes as the "plain one" and CSPM - the latter gives you security score against chosen standards, and can ingest from external sources. The former is a panel to search acreoss vulnerabilities, findings, ...](https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html)
