@@ -11,3 +11,4 @@
 - [Trusted advisor checks](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html)
 - [Support plans - business support+ and above have all trusted advisor checks](https://docs.aws.amazon.com/awssupport/latest/user/aws-support-plans.html)
 - [AWS Incident Manager is no longer available](https://docs.aws.amazon.com/incident-manager/latest/userguide/incident-manager-availability-change.html)
+- [Compliance by service and industry in AWS](https://aws.amazon.com/compliance/services-in-scope/)
