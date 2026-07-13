@@ -36,3 +36,6 @@
 - [Gateway Load Balancer Announcement](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 - [Zero trust architecture](https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf)
 - [Introduction of protection packages for WAF](https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/)
+- [Resiliency features in Route53 - shuffle sharding, anycast striping](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/using-route53-for-dns-availability.html)
+- [Firewall manager allows you to centrally deploy a lot of security artifacts - WAF, Shield Advanced, NACL, Security Groups, ...](https://docs.aws.amazon.com/waf/latest/developerguide/fms-chapter.html)
+- [Supported targets for Inspector scanning](https://docs.aws.amazon.com/inspector/latest/user/activate-scans.html)
