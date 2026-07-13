@@ -7,3 +7,6 @@
 ## Learning links
 - [AWS Well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/framework/security.html)
+- [Well-architected tool](https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html)
+- [Trusted advisor checks](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html)
+- [Support plans - business support+ and above have all trusted advisor checks](https://docs.aws.amazon.com/awssupport/latest/user/aws-support-plans.html)
