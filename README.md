@@ -26,3 +26,5 @@
 - [Using Cognito, made for web application authentication/authorization](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html), components are "user pool" (authentication) and "identity pool" (authorization)
 - [Integrating Secrets manager with EKS secrets](https://docs.aws.amazon.com/eks/latest/userguide/manage-secrets.html)
 - [EKS Pod identity](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
+- [AWS Policy evaluation logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+- [KMS Bucket key reduces costs significantly](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
